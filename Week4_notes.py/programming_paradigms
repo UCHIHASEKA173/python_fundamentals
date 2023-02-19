@@ -1,0 +1,49 @@
+'''
+PROGRAMMING PARADIGMS
+
+Procedural
+Object-Oriented
+
+Many programmimng languages are multi paradigm so they 
+    support multiple PARADIGMS
+ie Python, Javascript, Ruby and others
+
+PROCEDURAL PROGRAMMING
+    -Linear step by step actions to perform tasks
+    -Tasks are often encapsulated into modular procedures (get user input, write user input
+    to a file, perform a calculation, etc)
+    -The concept of a procedure is implemented as 
+    functions in Python: a modular callable block of code
+
+OBJECT ORIENTED PROGRAMMING     OOP
+    -Object: A unit that bundles together relatable data and executable code
+    -Objects are the center of focus
+    -Attributes are called Data
+    -Methods are called Executable Code
+Class based approach to OOP:
+    -A class is a blueprint for an object, like an 
+    architectural blueprint
+    -Objects are instances of a class
+    -Many objects can be created from the same class
+    -Think of classes as a custom data type
+    / data structure
+OOP CLASS INHERITANCE
+    -Class inheritance - child classes created 
+    based on parent classes
+    -Usually more complex classes from simpler classes, share base code
+    -ex. 
+    parent class: House
+    child classes: Cottage, Mansion, etc
+    all inherit from house class
+PYTHON and OOP
+    -A string is a String object:
+    an instance of the class of string, 
+    with methods such as lower()
+    -A list is a List object:
+    an instance of the class of list,
+    with methods such as pop()
+    -Anything that can be assigned as the 
+    value of a variable can be considered an
+    object, capable of having attributes
+    and methods. 
+    -Functions are also objects
