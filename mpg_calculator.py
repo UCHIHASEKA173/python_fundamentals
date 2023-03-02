@@ -1,0 +1,5 @@
+print('-----MPG Calculator-----')
+miles_driven = input('How many miles travelled?: ')
+gallons_used = input('How many gallons of fuel used?: ')
+mpg = int(miles_driven) / int(gallons_used)
+print(f'Your MPG calculation is {mpg} miles per gallon.')
